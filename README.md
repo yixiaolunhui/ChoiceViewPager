@@ -9,4 +9,4 @@ An intermediate selection of viewpager
 
 
 ###vertical
-![image](hhttps://github.com/dalong982242260/ChoiceViewPager/blob/master/img/ver.gif?raw=true)
+![image](https://github.com/dalong982242260/ChoiceViewPager/blob/master/img/ver.gif?raw=true)
